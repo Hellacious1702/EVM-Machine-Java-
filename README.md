@@ -14,7 +14,7 @@ This Java program simulates a simplified Electronic Voting Machine (EVM) for edu
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/Hellacious1702/EVM-Machine-Java-.git
     ```
 2.  **Compile the Code:**
     ```bash
